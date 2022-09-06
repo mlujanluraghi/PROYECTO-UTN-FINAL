@@ -1,0 +1,198 @@
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    flex-grow: 1;
+}
+
+nav ul li a {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 4px 6px;
+    display: block;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    background-color: rgb(133, 62, 133);
+}
+
+
+/* .pie {
+    text-align: right;
+    padding: 16px 0px;
+    margin-left: 0px;
+}
+ */
+
+
+/* INICIO DE SCRAP  */
+
+/* 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 20px;
+}
+
+.grid-container div {
+    border: 1px solid rgb(97, 23, 97);
+    border-radius: 13px;
+    width: 93%;
+    text-align: justify;
+    padding: 13px;
+    gap: 10px;
+
+}
+
+.grid-container img {
+    border-radius: 13px;
+    max-width: fit-content;
+    box-shadow: 0 0 10px #b544db;
+}
+
+.estilo h3 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 22px;
+}
+
+.estilo p {
+    font-size: 14px;
+}
+ */
+
+
+
+
+
+
+/* FIN DE SCRAP  */
+
+
+
+
+
+/*INICIO DE NOVEDADES*/
+
+.imagen {
+    border: 2px solid blueviolet;
+    box-shadow: 10px blueviolet;
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(46, 12, 46);
+    border: 1px solid blueviolet;
+    box-shadow: 8px violet;
+}
+
+.subtitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(50, 19, 78);
+}
+
+.body {
+    background-color: rgb(201, 158, 241);
+}
+
+/*FIN DE NOVEDADES*/
+
+/* INICIO DIY 
+
+.grid-container2 img {
+    border: solid 2px rgb(58, 9, 58);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: 0 0 20px #531c66;
+    transform: rotate(25deg);
+
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    row-gap: 15px;
+    column-gap: 15px;
+}  */
+
+
+
+/* FIN DIY */
+
+/* CONTACTO
+
+.contacto {
+    columns: 2;
+    display: flex;
+    column-gap: 20%;
+}
+
+.contacto div {
+    width: 100%;
+}
+
+.datos p {
+    font-size: 16px;
+}
+
+.datos ul li {
+    font-size: 14px;
+}
+
+
+.formulario p input,
+.formulario p textarea {
+    width: 100%;
+    background: #ebd1f3;
+    border-radius: 5px;
+    border: 1px solid rgb(77, 13, 77);
+    font-size: 14px;
+    padding: 6px 10px;
+
+}
+
+.formulario p:nth-child(4) {
+    align-items: flex-start;
+}
+
+.formulario textarea {
+    height: 200px;
+}
+
+.formulario input[type="submit"] {
+    background: #431353;
+    box-shadow: 0 0 10px black (0, 0, 0, 0.4);
+    color: white;
+    font-size: 16px;
+    padding: 6px 20px;
+    width: 100%;
+    position: relative;
+    left: 0px;
+    cursor: pointer;
+    transition: all 0.5% ease;
+
+}
+
+.formulario input[type="submit"]:hover {
+    background: #c7b2ce;
+}
+
+
+
+
+
+
+FIN DE CONTACTO */

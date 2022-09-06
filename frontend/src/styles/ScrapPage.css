@@ -1,0 +1,53 @@
+/* INICIO DE SCRAP  */
+.tit img {
+    margin-left: 20%;
+    padding-top: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto;
+    /* align-content: space-between; */
+    gap: 40px;
+
+}
+
+.grid-container div {
+    border: 1px solid rgb(97, 23, 97);
+    border-radius: 13px;
+    width: 90%;
+    text-align: justify;
+    padding: 13px;
+    gap: 20px;
+    box-shadow: 0 0 10px #b544db;
+}
+
+.grid-container img {
+    border-radius: 13px;
+    max-width: fit-content;
+    box-shadow: 0 0 10px #b544db;
+    padding-top: 12px;
+}
+
+.grid-container h3 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 20px;
+    color: #4c205a;
+    padding-bottom: 20px;
+    text-align: center;
+    text-shadow: 4px 4px 4px rgba(137, 59, 146, 0.6);
+}
+
+.grid-container p {
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+/* FIN DE SCRAP  */

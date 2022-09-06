@@ -1,0 +1,22 @@
+table,
+th,
+td {
+    border: 2px solid rgb(68, 25, 68);
+}
+
+th {
+    font-size: 30px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(83, 24, 83);
+    text-align: center;
+    padding: 10px;
+
+}
+
+td {
+    background-color: rgb(208, 162, 214);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    text-align: left;
+}
