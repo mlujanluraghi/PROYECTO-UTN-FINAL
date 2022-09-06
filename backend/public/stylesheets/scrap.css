@@ -1,0 +1,140 @@
+/* CSS rules to specify families 
+    
+font-family: 'Akaya Kanadaka', cursive;
+font-family: 'Aref Ruqaa', serif;
+font-family: 'Beau Rivage', cursive;
+font-family: 'Gochi Hand', cursive;
+font-family: 'Henny Penny', cursive;
+font-family: 'Kranky', cursive;
+font-family: 'Kurale', serif;
+font-family: 'Mansalva', cursive;
+font-family: 'Mountains of Christmas', cursive;
+font-family: 'Princess Sofia', cursive;
+font-family: 'Prompt', sans-serif;
+font-family: 'Rancho', cursive;
+font-family: 'Shadows Into Light Two', cursive;
+font-family: 'Tangerine', cursive;">
+
+*/
+/* INICIO DE HOME */
+
+.cabeza img {
+    width: 70px;
+    height: 70px;
+}
+
+.cabeza {
+    background: rgba(57, 8, 63, 0.9);
+    background: linear-gradient(340deg, rgba(86, 15, 95, 0.9) 0%, rgba(207, 126, 220, 0.43) 80%);
+    background: -webkit-linear-gradient(340deg, rgba(226, 0, 255, 0.9) 0%, rgba(207, 126, 220, 0.43) 80%);
+    background: -moz-linear-gradient(340deg, rgba(226, 0, 255, 0.9) 0%, rgba(207, 126, 220, 0.43) 80%);
+    padding: 16px 0px;
+    height: 150px;
+}
+
+.titulo {
+    font-family: 'Princess Sofia', cursive;
+    font-size: 56px solid black;
+}
+
+
+.pie {
+    text-align: right;
+    padding: 16px 0px;
+    margin-left: 0px;
+    font-family: 'Princess Sofia', cursive;
+    font-size: 20px;
+}
+
+
+.holder {
+    max-width: 1900px;
+    margin-left: 0px;
+}
+
+.holder img {
+    border-radius: 13px;
+    box-shadow: 0 0 30px #531c66;
+    height: 100px;
+    width: 1380px;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+button {
+    background: #431353;
+    border-radius: 5px;
+    color: white;
+    font-size: 26px;
+    padding: 6px 20px;
+    width: 40%;
+    position: relative;
+    margin-left: 30%;
+    margin-right: 30%;
+    cursor: pointer;
+    transition: all 0.5% ease;
+}
+
+
+.boton input[type="submit"]:hover {
+    background: #c7b2ce;
+
+}
+
+.ingreso {
+    background-color: rgb(241, 204, 241);
+    border-radius: 5px;
+    border-color: #531c66;
+    box-shadow: #531c66;
+    border-bottom: rgb(72, 51, 92);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    box-sizing: 70%;
+    display: flex;
+
+}
+
+.contra {
+    background-color: rgb(241, 204, 241);
+    border-radius: 5px;
+    border-color: #531c66;
+    box-shadow: #531c66;
+    border-bottom: rgb(72, 51, 92);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    box-sizing: 70%;
+    display: flex;
+}
+
+label {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: #531c66;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: rgb(83, 56, 109);
+    margin-left: 0%;
+}
+
+.bienvenidos {
+    font-family: 'Princess Sofia', cursive;
+    font-size: 36px;
+    margin-left: 30px;
+    color: #531c66;
+    padding-top: 10px;
+    text-align: center;
+}
